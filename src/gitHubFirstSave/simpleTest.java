@@ -5,5 +5,5 @@ public class simpleTest {
         System.out.println("dfdf world");
         System.out.println("xz");
         System.out.println("new text");
-        System.out.println("new Igor");
+        System.out.println("n7777777");
 }}
